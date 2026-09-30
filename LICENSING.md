@@ -22,5 +22,3 @@ CC BY 4.0 允许分享、改编和商业使用，要求适当署名、提供许�
 - [CC BY 4.0 摘要](https://creativecommons.org/licenses/by/4.0/)
 - [CC BY 4.0 法律文本](https://creativecommons.org/licenses/by/4.0/legalcode.en)
 - [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
-审批入口：[代办清单](DECISIONS.md)。
