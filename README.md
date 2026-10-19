@@ -6,9 +6,10 @@ OpenYoumiya 的学习与探索仓库。当前第一阶段：理清 HinaAI 应该
 
 ## 从这里开始
 
+- [HinaAI 研究概览](00-HinaAI.md)：核心问题、当前理解与研究方向。
+- [人工主体：寿命、记忆与身份](hinaai/identity-and-existence.md)：日漫、电影、游戏、文学与哲学专题；从寿命、失忆、身份延续进入，按问题将作品与思想著作对读。见[首轮选读](hinaai/identity-and-existence.md#首轮选读)。
 - [探索原则](PRINCIPLES.md)：如何让行动和证据推动判断。
 - [问题列表](QUESTIONS.md)：当前优先问题与暂存想法。
-- [logs](logs/README.md)：实际做过的行动、发现与下一步。
 
 每次选一个重要问题，做一个能获得信息的行动，留下简短记录，再决定继续、调整或暂缓。记录放在一处，通过链接引用。
 

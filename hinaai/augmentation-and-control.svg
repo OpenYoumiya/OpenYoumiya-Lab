@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">增强了谁，谁更能决定？</title>
+<desc id="desc">本专题自拟的比较图。同一项AI助手可同时替代部分任务与扩展另一些能力。使用者核查能做什么、能否纠正；维护者核查工作与依赖；经验与知识提供者核查贡献与回报；控制关键资源者核查接入、定价、修改与退出。位置可以重叠，不预设结果。</desc>
+<style>text{font-family:"PingFang SC","Heiti SC","Noto Sans CJK SC",sans-serif;fill:#203047}.title{font-size:36px;font-weight:500}.subtitle{font-size:22px;fill:#54647a}.name{font-size:26px;font-weight:500}.body{font-size:22px}.center{font-size:27px;font-weight:500}.small{font-size:20px;fill:#54647a}.foot{font-size:22px;fill:#54647a}</style>
+<rect width="1200" height="800" fill="#f6f8fc"/>
+<text x="60" y="67" class="title">增强了谁，谁更能决定？</text>
+<text x="60" y="108" class="subtitle">同一项技术，从不同参与者的位置观察</text>
+<path d="M600 252V580M560 380H640M560 580H640" fill="none" stroke="#aabbd1" stroke-width="3"/>
+<circle cx="600" cy="380" r="5" fill="#708baa"/>
+<circle cx="600" cy="580" r="5" fill="#708baa"/>
+<rect x="350" y="146" width="500" height="106" rx="18" fill="#e8f0fb" stroke="#b7cae3"/>
+<text x="600" y="190" text-anchor="middle" class="center">同一项 AI 助手</text>
+<text x="600" y="225" text-anchor="middle" class="small">可替代部分任务，也可扩展另一些能力</text>
+<rect x="60" y="300" width="500" height="160" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="60" y="322" width="5" height="116" rx="2" fill="#4676b7"/>
+<text x="90" y="344" class="name">使用者</text>
+<text x="90" y="384" class="body">原先做不了的事，能否做到？</text>
+<text x="90" y="421" class="body">能否核查、纠正和更换工具？</text>
+<rect x="640" y="300" width="500" height="160" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="640" y="322" width="5" height="116" rx="2" fill="#528478"/>
+<text x="670" y="344" class="name">维护者</text>
+<text x="670" y="384" class="body">交付与维护需要多少工作？</text>
+<text x="670" y="421" class="body">依赖谁的模型、接口和分发？</text>
+<rect x="60" y="500" width="500" height="160" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="60" y="522" width="5" height="116" rx="2" fill="#8b72a7"/>
+<text x="90" y="544" class="name">经验与知识提供者</text>
+<text x="90" y="584" class="body">哪些经验进入了系统？</text>
+<text x="90" y="621" class="body">贡献、回报与后续选择怎样安排？</text>
+<rect x="640" y="500" width="500" height="160" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="640" y="522" width="5" height="116" rx="2" fill="#a48151"/>
+<text x="670" y="544" class="name">控制关键资源的一方</text>
+<text x="670" y="584" class="body">谁决定接入、价格和修改？</text>
+<text x="670" y="621" class="body">谁能够拒绝或退出？</text>
+<text x="60" y="721" class="foot">同一个人可能占据多个位置；收益、成本与决定权分别查证。</text>
+<text x="60" y="761" class="small">研究比较图 · 不预设结果</text>
+</svg>

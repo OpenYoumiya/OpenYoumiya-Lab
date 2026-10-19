@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1180" viewBox="0 0 1440 1180" role="img" aria-labelledby="title desc">
+<title id="title">看见、理解与改变关系：四项并列研究问题</title>
+<desc id="desc">本专题提出的概念对照，不是实测结果。记录核对材料来源，可见核对访问和流转条件，理解核对解释和个人差异，决定核对异议、协商和退出。四项相互影响，不能互相保证。共同条件是目的、支持与代价的分配。</desc>
+<style>text{font-family:"Heiti SC","PingFang SC","Noto Sans CJK SC",sans-serif;fill:#203047}.title{font-size:44px;font-weight:600}.subtitle{font-size:26px;fill:#54647a}.column{font-size:23px;fill:#617188}.name{font-size:32px;font-weight:600}.small{font-size:23px;fill:#637389}.body{font-size:26px}.boundary{font-size:25px}.source{font-size:22px;fill:#637389}.label{font-size:26px;font-weight:600}.foot{font-size:23px;fill:#54647a}</style>
+<rect width="1440" height="1180" fill="#f6f8fc"/>
+<text x="72" y="88" class="title">看见、理解与改变关系</text>
+<text x="72" y="137" class="subtitle">从记录到决定：四项并列核查，不预设自动递进。</text>
+<text x="104" y="191" class="column">需要区分</text>
+<text x="390" y="191" class="column">可以观察什么</text>
+<text x="960" y="191" class="column">尚不能替代什么</text>
+
+<rect x="72" y="212" width="1296" height="164" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 212H354V376H88Q72 376 72 360V228Q72 212 88 212Z" fill="#edf3fc"/>
+<rect x="72" y="233" width="5" height="122" rx="2" fill="#4676b7"/>
+<path d="M930 236V352" stroke="#e5eaf2"/>
+<text x="104" y="266" class="name">记录</text>
+<text x="104" y="310" class="small">材料与形成过程</text>
+<text x="390" y="262" class="body">核对来源、时间与修正</text>
+<text x="390" y="305" class="body">区分亲历、转述与新生成</text>
+<text x="960" y="262" class="boundary">记录充分 ≠ 任何转用都合适</text>
+<text x="960" y="306" class="source">线索：《膜》与隐私研究</text>
+
+<rect x="72" y="392" width="1296" height="164" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 392H354V556H88Q72 556 72 540V408Q72 392 88 392Z" fill="#eaf5f2"/>
+<rect x="72" y="413" width="5" height="122" rx="2" fill="#39806d"/>
+<path d="M930 416V532" stroke="#e5eaf2"/>
+<text x="104" y="446" class="name">可见</text>
+<text x="104" y="490" class="small">接近信息的条件</text>
+<text x="390" y="442" class="body">谁能访问，何时、为何访问</text>
+<text x="390" y="485" class="body">保留恰当边界与流转条件</text>
+<text x="960" y="442" class="boundary">看得见 ≠ 已经理解</text>
+<text x="960" y="486" class="source">线索：情境完整性</text>
+
+<rect x="72" y="572" width="1296" height="164" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 572H354V736H88Q72 736 72 720V588Q72 572 88 572Z" fill="#f3eef9"/>
+<rect x="72" y="593" width="5" height="122" rx="2" fill="#8b67b3"/>
+<path d="M930 596V712" stroke="#e5eaf2"/>
+<text x="104" y="626" class="name">理解</text>
+<text x="104" y="670" class="small">解释与具体处境</text>
+<text x="390" y="622" class="body">解释能否被当事人纠正</text>
+<text x="390" y="665" class="body">群体规律与个人差异分开</text>
+<text x="960" y="622" class="boundary">说得像 ≠ 了解一个人</text>
+<text x="960" y="666" class="source">线索：OpinionQA</text>
+
+<rect x="72" y="752" width="1296" height="164" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 752H354V916H88Q72 916 72 900V768Q72 752 88 752Z" fill="#fbf1e5"/>
+<rect x="72" y="773" width="5" height="122" rx="2" fill="#b7873f"/>
+<path d="M930 776V892" stroke="#e5eaf2"/>
+<text x="104" y="806" class="name">决定</text>
+<text x="104" y="850" class="small">改变安排的能力</text>
+<text x="390" y="802" class="body">能否提出异议、协商与退出</text>
+<text x="390" y="845" class="body">检查实际选择与所需支持</text>
+<text x="960" y="802" class="boundary">被理解 ≠ 能改变关系</text>
+<text x="960" y="846" class="source">线索：《楚门的世界》</text>
+
+<rect x="72" y="942" width="1296" height="145" rx="16" fill="#e8eef6"/>
+<text x="104" y="986" class="label">共同条件</text>
+<text x="104" y="1027" class="body">目的由谁界定，支持由谁提供，代价由谁承担？</text>
+<text x="104" y="1065" class="source">阅读线索与核对范围见《研究图谱》相应小节。</text>
+<text x="72" y="1130" class="foot">不为作品或系统打分；文学、规范论证与经验研究各自承担不同作用。</text>
+</svg>

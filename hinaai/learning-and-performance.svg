@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="880" viewBox="0 0 1200 880" role="img" aria-labelledby="title desc">
+<title id="title">说“学会了”，究竟是谁发生了变化？</title>
+<desc id="desc">本专题自拟的比较图。同一次人机交互，分别观察当前人和工具的任务表现、使用者之后的能力、使用者对学习的自我判断，以及系统的后续适应。四项不构成阶段，也不能相互替代。分别明确对象、时间、支持条件及比较任务。</desc>
+<style>text{font-family:"PingFang SC","Heiti SC","Noto Sans CJK SC",sans-serif;fill:#203047}.title{font-size:34px;font-weight:500}.subtitle{font-size:23px;fill:#54647a}.name{font-size:27px;font-weight:500}.body{font-size:23px}.note{font-size:21px;fill:#54647a}.foot{font-size:23px;fill:#54647a}.tag{font-size:20px;fill:#54647a}</style>
+<rect width="1200" height="880" fill="#f6f8fc"/>
+<text x="60" y="66" class="title">说“学会了”，究竟是谁发生了变化？</text>
+<text x="60" y="110" class="subtitle">同一次人机交互，可以分别检查四个对象</text>
+<rect x="60" y="144" width="1080" height="53" rx="12" fill="#e8f0fb"/>
+<text x="600" y="178" text-anchor="middle" class="subtitle">先说明对象、时间、支持条件与比较任务</text>
+<rect x="60" y="226" width="520" height="229" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="60" y="250" width="5" height="181" rx="2" fill="#4676b7"/>
+<text x="90" y="272" class="name">当前任务的表现</text>
+<text x="90" y="311" class="tag">观察人和工具组成的系统</text>
+<text x="90" y="355" class="body">眼下是否做对，质量与代价怎样？</text>
+<text x="90" y="393" class="body">哪些步骤依靠了工具与他人？</text>
+<text x="90" y="430" class="note">当场完成 ≠ 之后仍会</text>
+<rect x="620" y="226" width="520" height="229" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="620" y="250" width="5" height="181" rx="2" fill="#528478"/>
+<text x="650" y="272" class="name">使用者之后的能力</text>
+<text x="650" y="311" class="tag">观察人的后续表现</text>
+<text x="650" y="355" class="body">能否解释、纠错与处理新情况？</text>
+<text x="650" y="393" class="body">暂停或保留支持时，分别怎样？</text>
+<text x="650" y="430" class="note">即时测验 ≠ 长期保留与迁移</text>
+<rect x="60" y="485" width="520" height="229" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="60" y="509" width="5" height="181" rx="2" fill="#8b72a7"/>
+<text x="90" y="531" class="name">使用者的自我判断</text>
+<text x="90" y="570" class="tag">观察学习感、信心与负担</text>
+<text x="90" y="614" class="body">觉得学会了多少，还缺什么支持？</text>
+<text x="90" y="652" class="body">判断与后续表现是否一致？</text>
+<text x="90" y="689" class="note">感受值得听取，也需要另查能力</text>
+<rect x="620" y="485" width="520" height="229" rx="16" fill="white" stroke="#d9e3ef"/>
+<rect x="620" y="509" width="5" height="181" rx="2" fill="#a48151"/>
+<text x="650" y="531" class="name">系统的后续适应</text>
+<text x="650" y="570" class="tag">观察模型、记忆与运行状态</text>
+<text x="650" y="614" class="body">更新了什么，变化保留多久？</text>
+<text x="650" y="652" class="body">新旧任务与迁移表现怎样？</text>
+<text x="650" y="689" class="note">一次行为改变 ≠ 持续学习</text>
+<text x="60" y="774" class="foot">四项可能同时变化，也可能分离；一项改善不自动证明其余三项。</text>
+<text x="60" y="820" class="note">研究比较图 · 非发展阶段、能力评分或意识判据</text>
+</svg>

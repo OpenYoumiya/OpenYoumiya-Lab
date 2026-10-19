@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1410" viewBox="0 0 1440 1410" role="img" aria-labelledby="title desc">
+<title id="title">HinaAI：从愿望到证据</title>
+<desc id="desc">五组并列研究问题：任务能力、继续学习、保持连续、改变目的、体验与利益。各自列出核查方向、证据边界和阅读线索。共同条件是维护、成本、修改安排的权力及受影响者。这是本专题的研究归纳，不是能力排名。</desc>
+<style>text{font-family:"Heiti SC","PingFang SC","Noto Sans CJK SC",sans-serif;fill:#203047}.title{font-size:44px;font-weight:600}.subtitle{font-size:26px;fill:#54647a}.column{font-size:22px;fill:#617188}.name{font-size:31px;font-weight:600}.small{font-size:22px;fill:#637389}.body{font-size:26px}.source{font-size:23px;fill:#46576f}.label{font-size:23px;font-weight:600;fill:#526379}</style>
+<rect width="1440" height="1410" fill="#f6f8fc"/>
+<text x="72" y="91" class="title">HinaAI｜从愿望到证据</text>
+<text x="72" y="139" class="subtitle">五类主张分别核查：证据可以相互支持，不能相互替代。</text>
+<text x="106" y="190" class="column">想要理解什么</text>
+<text x="430" y="190" class="column">怎样核查</text>
+<text x="978" y="190" class="column">阅读线索</text>
+<rect x="72" y="212" width="1296" height="156" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 212H384V368H88Q72 368 72 352V228Q72 212 88 212Z" fill="#edf3fc"/>
+<rect x="72" y="232" width="5" height="116" rx="2" fill="#4676b7"/>
+<path d="M948 238V342" stroke="#e5eaf2"/>
+<text x="106" y="260" class="name">任务能力</text>
+<text x="106" y="303" class="small">会表达 · 会行动</text>
+<text x="430" y="255" class="body">比较任务、情境与失败</text>
+<text x="430" y="294" class="body">观察完整系统和支持条件</text>
+<text x="430" y="337" class="small">表现本身不判定体验</text>
+<text x="978" y="265" class="source">卡夫卡《致科学院的报告》</text>
+<text x="978" y="308" class="source">OpenVLA · DreamerV3</text>
+<rect x="72" y="384" width="1296" height="156" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 384H384V540H88Q72 540 72 524V400Q72 384 88 384Z" fill="#eaf6f2"/>
+<rect x="72" y="404" width="5" height="116" rx="2" fill="#298777"/>
+<path d="M948 410V514" stroke="#e5eaf2"/>
+<text x="106" y="432" class="name">继续学习</text>
+<text x="106" y="475" class="small">经验能否留下改变</text>
+<text x="430" y="427" class="body">标明更新对象与保留范围</text>
+<text x="430" y="466" class="body">同时看新能力与旧能力</text>
+<text x="430" y="509" class="small">保存记录不保证学会</text>
+<text x="978" y="437" class="source">《软件体的生命周期》</text>
+<text x="978" y="480" class="source">EWC · TTT / Titans</text>
+<rect x="72" y="556" width="1296" height="156" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 556H384V712H88Q72 712 72 696V572Q72 556 88 556Z" fill="#fbf5e7"/>
+<rect x="72" y="576" width="5" height="116" rx="2" fill="#a27a2d"/>
+<path d="M948 582V686" stroke="#e5eaf2"/>
+<text x="106" y="604" class="name">保持连续</text>
+<text x="106" y="647" class="small">停运与变化以后</text>
+<text x="430" y="599" class="body">分别查记录、状态与承诺</text>
+<text x="430" y="638" class="body">讨论复制、恢复与身份</text>
+<text x="430" y="681" class="small">恢复运行不等于人格结论</text>
+<text x="978" y="609" class="source">《杨之后》· 帕菲特</text>
+<text x="978" y="652" class="source">利科 · 威廉斯</text>
+<rect x="72" y="728" width="1296" height="156" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 728H384V884H88Q72 884 72 868V744Q72 728 88 728Z" fill="#f3eef9"/>
+<rect x="72" y="748" width="5" height="116" rx="2" fill="#8566ad"/>
+<path d="M948 754V858" stroke="#e5eaf2"/>
+<text x="106" y="776" class="name">改变目的</text>
+<text x="106" y="819" class="small">谁能提出不同方向</text>
+<text x="430" y="771" class="body">区分执行目标与形成目标</text>
+<text x="430" y="810" class="body">看协商、退出与他人影响</text>
+<text x="430" y="853" class="small">意外输出不证明自主</text>
+<text x="978" y="781" class="source">《钢铁巨人》· 卡夫卡</text>
+<text x="978" y="824" class="source">《楚门的世界》</text>
+<rect x="72" y="900" width="1296" height="156" rx="16" fill="white" stroke="#dde4ef"/>
+<path d="M88 900H384V1056H88Q72 1056 72 1040V916Q72 900 88 900Z" fill="#faeef3"/>
+<rect x="72" y="920" width="5" height="116" rx="2" fill="#af627b"/>
+<path d="M948 926V1030" stroke="#e5eaf2"/>
+<text x="106" y="948" class="name">体验与利益</text>
+<text x="106" y="991" class="small">有感受吗 · 什么会受损</text>
+<text x="430" y="943" class="body">理论指标、机制与竞争解释</text>
+<text x="430" y="982" class="body">区分人的感受与系统状态</text>
+<text x="430" y="1025" class="small">关系感不单独证明意识</text>
+<text x="978" y="953" class="source">内格尔 · 查尔默斯</text>
+<text x="978" y="996" class="source">Butlin 等意识研究</text>
+<rect x="72" y="1100" width="1296" height="240" rx="18" fill="#e9eef6"/>
+<text x="106" y="1143" class="label">共同条件</text>
+<text x="106" y="1191" class="body">谁提供维护，谁承担成本，谁能修改安排？</text>
+<text x="106" y="1236" class="subtitle">创造者／使用者／维护者／其他受影响者</text>
+<text x="106" y="1290" class="small">个人贡献也可以体现为：理解问题、检验假设、改善使用、支持接续。</text>
+<text x="72" y="1380" class="small">本专题的研究归纳｜各行不是发展阶段，也不是人格、意识或权利的统一判据。</text>
+</svg>
